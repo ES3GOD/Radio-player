@@ -203,8 +203,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SUPPORT", url="https://t.me/DeCodeSupport"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
                 InlineKeyboardButton("SOURCE CODE", url="https://t.me/DeCodeSupport"),
+                InlineKeyboardButton("MORE BOTS", url="https://telegra.ph/DEVOLOPER-09-30"),
             ],
             [
                 InlineKeyboardButton("BACK HOME", callback_data="home"),

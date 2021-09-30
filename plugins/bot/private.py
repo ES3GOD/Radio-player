@@ -29,7 +29,7 @@ ADMINS=Config.ADMINS
 playlist=Config.playlist
 LOG_GROUP=Config.LOG_GROUP
 
-HOME_TEXT = "👋🏻 **𝙃𝙚𝙮 𝙏𝙝𝙚𝙧𝙚, [{}](tg://user?id={})**,\n\n𝙄𝘼𝙈 𝘼 𝙍𝘼𝘿𝙄𝙊 𝙋𝙇𝘼𝙔𝙀𝙍 𝘽𝙊𝙏 𝙊𝙁 𝙎𝙄𝘿𝙀𝙍𝙕 \nI Can Play Radio / Music / YouTube Live In Channel & Group 24x7 Nonstop. Made with ❤️ By @AsmSafone 😉!"
+HOME_TEXT = "👋🏻 **𝙃𝙚𝙮 𝙏𝙝𝙚𝙧𝙚, [{}](tg://user?id={})**,\n\n𝙄𝘼𝙈 𝘼 𝙍𝘼𝘿𝙄𝙊 𝙋𝙇𝘼𝙔𝙀𝙍 𝘽𝙊𝙏 𝙊𝙁 𝙎𝙄𝘿𝙀𝙍𝙕 \n\nIᴀᴍ Aʟʟ Iɴ Oɴᴇ Bᴏᴛ ✨ \nFᴇᴀᴛᴜʀᴇs ; \nI Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ / Rᴀᴅɪᴏ /Yᴏᴜᴛᴜʙᴇ Lɪᴠᴇ Iɴ Cʜᴀɴɴᴇʟ & Gʀᴏᴜᴘ 24x7 \n\n𝒎𝒂𝒅𝒆 𝒘𝒊𝒕𝒉 ❤️ 𝒃𝒚 𝒅𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓𝒔"
 HELP_TEXT = """
 💡 --**Setting Up**--:
 

@@ -29,7 +29,7 @@ ADMINS=Config.ADMINS
 playlist=Config.playlist
 LOG_GROUP=Config.LOG_GROUP
 
-HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Radio Player V3.0** \nI Can Play Radio / Music / YouTube Live In Channel & Group 24x7 Nonstop. Made with ❤️ By @AsmSafone 😉!"
+HOME_TEXT = "👋🏻 **𝙃𝙚𝙮 𝙏𝙝𝙚𝙧𝙚, [{}](tg://user?id={})**,\n\n𝙄𝘼𝙈 𝘼 𝙍𝘼𝘿𝙄𝙊 𝙋𝙇𝘼𝙔𝙀𝙍 𝘽𝙊𝙏 𝙊𝙁 𝙎𝙄𝘿𝙀𝙍𝙕 \nI Can Play Radio / Music / YouTube Live In Channel & Group 24x7 Nonstop. Made with ❤️ By @AsmSafone 😉!"
 HELP_TEXT = """
 💡 --**Setting Up**--:
 

@@ -71,7 +71,7 @@ HELP_TEXT = """
 async def cb_handler(client: Client, query: CallbackQuery):
     if query.from_user.id not in Config.ADMINS and query.data != "help":
         await query.answer(
-            "You're Not Allowed! 🤣",
+            "YOU CANT ACCESS THIS BUTTON 😉",
             show_alert=True
             )
         return
@@ -204,7 +204,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("SOURCE CODE", url="https://t.me/DeCodeSupport"),
             ],
             [
                 InlineKeyboardButton("BACK HOME", callback_data="home"),

@@ -50,7 +50,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 - Bot will starts radio automatically in given `CHAT` with given `STREAM_URL` after deploy. 
 - 24x7 Music even if heroku restarts, radio stream restarts automatically. 
 - To play a song use /play as a reply to audio file or a youtube link or use /play [song name].
-- To download audio you can use [@SafoneMusicBot](http://t.me/SafoneMusicBot) or `/song` command to the bot.
+- To download audio you can use `/song` command to the bot.
 - Use `/help` to know about other commands & their usage.
 
 ## Requirements

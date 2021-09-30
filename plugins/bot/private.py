@@ -196,15 +196,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data.lower() == "help":
         buttons = [
             [
-                InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
+                InlineKeyboardButton("IɴLɪɴᴇ Mᴏᴅᴇ 🔎", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/TeamDeeCoDe"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/DeCodeSupport"),
+                InlineKeyboardButton("Cʜᴀɴɴᴇʟ 📣", url="https://t.me/TeamDeeCoDe"),
+                InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ👥", url="https://t.me/DeCodeSupport"),
             ],
             [
-                InlineKeyboardButton("SOURCE CODE", url="https://t.me/DeCodeSupport"),
-                InlineKeyboardButton("MORE BOTS", url="https://telegra.ph/DEVOLOPER-09-30"),
+                InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🔗", url="https://t.me/DeCodeSupport"),
+                InlineKeyboardButton("Dᴇᴠ 👑", url="https://telegra.ph/DEVOLOPER-09-30"),
             ],
             [
                 InlineKeyboardButton("BACK HOME", callback_data="home"),
@@ -223,15 +223,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data.lower() == "home":
         buttons = [
             [
-                InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
+                InlineKeyboardButton("IɴLɪɴᴇ Mᴏᴅᴇ 🔎", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
+                InlineKeyboardButton("Cʜᴀɴɴᴇʟ 📣", url="https://t.me/TeamDeeCoDe"),
+                InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ👥", url="https://t.me/DeCodeSupport"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🔗", url="https://t.me/DeCodeSupport"),
+                InlineKeyboardButton("Dᴇᴠ 👑", url="https://telegra.ph/DEVOLOPER-09-30"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
@@ -258,15 +258,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
 async def start(client, message):
     buttons = [
             [
-                InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
+                InlineKeyboardButton("IɴLɪɴᴇ Mᴏᴅᴇ 🔎", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
+                InlineKeyboardButton("Cʜᴀɴɴᴇʟ 📣", url="https://t.me/TeamDeeCoDe"),
+                InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ👥", url="https://t.me/DeCodeSupport"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🔗", url="https://t.me/DeCodeSupport"),
+                InlineKeyboardButton("Dᴇᴠ 👑", url="https://telegra.ph/DEVOLOPER-09-30"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
@@ -282,15 +282,15 @@ async def start(client, message):
 async def help(client, message):
     buttons = [
             [
-                InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
+                InlineKeyboardButton("IɴLɪɴᴇ Mᴏᴅᴇ 🔎", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
+                InlineKeyboardButton("Cʜᴀɴɴᴇʟ 📣", url="https://t.me/TeamDeeCoDe"),
+                InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ👥", url="https://t.me/DeCodeSupport"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🔗", url="https://t.me/DeCodeSupport"),
+                InlineKeyboardButton("Dᴇᴠ 👑", url="https://telegra.ph/DEVOLOPER-09-30"),
             ],
             [
                 InlineKeyboardButton("BACK HOME", callback_data="home"),

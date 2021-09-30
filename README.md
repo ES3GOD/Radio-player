@@ -7,7 +7,7 @@ An Advanced Telegram Bot to Play Nonstop Radio/Music/YouTube Live in Channel or 
 
 This is also the source code of the bot which is being used for playing
 Radio in [Zalim](https://t.me/Jalim_Munda) Channel & Music in [Channel](https://t.me/DeeCodeBots) Group.
-[Pratheek_XD](https://t.me/pratheek06
+[Pratheek_XD](https://t.me/pratheek06)
 
 ## Special Features
 

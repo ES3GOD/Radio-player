@@ -101,6 +101,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 Special Thanks To 
 
 [Zalim](https://t.me/Jalim_Munda) 
+
 [Pratheek_XD](https://t.me/pratheek06)
+
 [Sammy](https://t.me/ProErrorXD)
 
